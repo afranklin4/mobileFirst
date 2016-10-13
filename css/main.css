@@ -1,0 +1,13 @@
+/* =================================
+  Media Queries
+==================================== */
+
+@media (min-width: 850px) {
+
+    img{
+        width: 300px;
+        height: 300px;
+    }
+}
+Contact GitHub API Training Shop Blog About
+
